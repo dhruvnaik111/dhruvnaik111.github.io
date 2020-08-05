@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.5b623f5c.chunk.js",
-    "main.js.map": "/static/js/main.5b623f5c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ce32a12f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ce32a12f.js.map",
-    "static/js/2.4e7e5e06.chunk.js": "/static/js/2.4e7e5e06.chunk.js",
-    "static/js/2.4e7e5e06.chunk.js.map": "/static/js/2.4e7e5e06.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.747c680f79dae6c129fe84b807a6e5e5.js": "/precache-manifest.747c680f79dae6c129fe84b807a6e5e5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4e7e5e06.chunk.js.LICENSE.txt": "/static/js/2.4e7e5e06.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/dhruvnaik111.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dhruvnaik111.github.io/static/js/main.e17e0677.chunk.js",
+    "main.js.map": "/dhruvnaik111.github.io/static/js/main.e17e0677.chunk.js.map",
+    "runtime-main.js": "/dhruvnaik111.github.io/static/js/runtime-main.70b27530.js",
+    "runtime-main.js.map": "/dhruvnaik111.github.io/static/js/runtime-main.70b27530.js.map",
+    "static/js/2.4e7e5e06.chunk.js": "/dhruvnaik111.github.io/static/js/2.4e7e5e06.chunk.js",
+    "static/js/2.4e7e5e06.chunk.js.map": "/dhruvnaik111.github.io/static/js/2.4e7e5e06.chunk.js.map",
+    "index.html": "/dhruvnaik111.github.io/index.html",
+    "precache-manifest.864bec9bfed3b1ad374e47a334ed1a56.js": "/dhruvnaik111.github.io/precache-manifest.864bec9bfed3b1ad374e47a334ed1a56.js",
+    "service-worker.js": "/dhruvnaik111.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dhruvnaik111.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4e7e5e06.chunk.js.LICENSE.txt": "/dhruvnaik111.github.io/static/js/2.4e7e5e06.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dhruvnaik111.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce32a12f.js",
+    "static/js/runtime-main.70b27530.js",
     "static/js/2.4e7e5e06.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5b623f5c.chunk.js"
+    "static/js/main.e17e0677.chunk.js"
   ]
 }
